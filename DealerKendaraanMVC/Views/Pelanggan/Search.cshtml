@@ -1,0 +1,54 @@
+﻿@model IEnumerable<DealerKendaraanMVC.Models.Produk>
+@{
+    ViewData["Title"] = "Cari";
+}
+
+<div class="text-center">
+    <h1 class="py-3">
+        <span style="border-radius: 20px; background-color: darkcyan; padding:10px 30px;">
+            Kendaraan
+        </span>
+    </h1>
+
+    <h2 class="text-light">Data Kendaraan</h2>
+</div>
+<div class="table-container">
+    <table class="table table-bordered table-dark" style="background-color: darkcyan;">
+        <thead class="text-center" style="color:cornsilk">
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.Nama)</th>
+                <th>@Html.DisplayNameFor(model => model.Merk.Nama)</th>
+                <th>@Html.DisplayNameFor(model => model.Warna)</th>
+                <th>@Html.DisplayNameFor(model => model.StokBarang)</th>
+                <th>@Html.DisplayNameFor(model => model.HargaSatuan)</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nama)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Merk.Nama)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Warna)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StokBarang)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.HargaSatuan)
+                </td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a>
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>

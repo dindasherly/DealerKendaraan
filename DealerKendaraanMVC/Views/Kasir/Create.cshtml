@@ -1,0 +1,62 @@
+﻿@model DealerKendaraanMVC.Models.Pesanan
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Pesanan</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="TanggalPesan" class="control-label"></label>
+                <input asp-for="TanggalPesan" class="form-control" />
+                <span asp-validation-for="TanggalPesan" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TanggalTiba" class="control-label"></label>
+                <input asp-for="TanggalTiba" class="form-control" />
+                <span asp-validation-for="TanggalTiba" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TanggalPengiriman" class="control-label"></label>
+                <input asp-for="TanggalPengiriman" class="form-control" />
+                <span asp-validation-for="TanggalPengiriman" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NamaPelanggan" class="control-label"></label>
+                <input asp-for="NamaPelanggan" class="form-control" />
+                <span asp-validation-for="NamaPelanggan" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AlamatPelanggan" class="control-label"></label>
+                <input asp-for="AlamatPelanggan" class="form-control" />
+                <span asp-validation-for="AlamatPelanggan" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="KotaPelanggan" class="control-label"></label>
+                <input asp-for="KotaPelanggan" class="form-control" />
+                <span asp-validation-for="KotaPelanggan" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="KasirId" class="control-label"></label>
+                <select asp-for="KasirId" class ="form-control" asp-items="ViewBag.KasirId"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

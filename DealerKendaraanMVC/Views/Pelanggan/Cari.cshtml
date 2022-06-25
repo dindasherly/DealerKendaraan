@@ -1,0 +1,50 @@
+﻿@model DealerKendaraanMVC.Models.Produk
+@{
+    ViewData["Title"] = "Admin Control Panel";
+    ViewData["Name"] = "Soemthing";
+}
+
+<div class="text-center">
+    <h1 class="py-3">
+        <span style="border-radius: 20px; background-color: darkcyan; padding:10px 30px;">
+            Kendaraan
+        </span>
+    </h1>
+
+    <h2 class="text-light">Masukan Data Kendaraan</h2>
+</div>
+
+<form asp-action="Search" method="post" enctype="multipart/form-data">
+    <div style="display:grid; min-height: 50vh; place-content:center;">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 10px 0px; width:100vw; max-width: 586px;">
+            <div><label asp-for="Merk" class="control-label"></label></div>
+            <div class="form-group">
+                <select asp-for="MerkId" class="form-control" asp-items="ViewBag.MerkId">
+                    <option value="0">Pilih - @Html.DisplayNameFor(model => model.Merk.Nama)</option>
+                </select>
+            </div>
+            
+            <div>
+                <label class="control-label">Tipe</label>
+            </div>
+            <div class="form-group">
+                <input class="form-control" />
+                <span class="text-danger"></span>
+            </div>
+            
+            <div>
+                <label class="control-label">Tahun Produksi</label>
+            </div>
+            <div class="form-group">
+                <input class="form-control" />
+                <span class="text-danger"></span>
+            </div>
+
+        </div>
+
+        <div class="py-3" style="display: flex; gap:50px; justify-content: center;">
+            <button type="submit" class="btn btn-success btn-outline-light px-4" style="border-radius: 20px;">Cari</button>
+        </div>
+    </div>
+</form>

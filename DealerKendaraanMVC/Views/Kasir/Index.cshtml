@@ -1,0 +1,65 @@
+﻿@model IEnumerable<DealerKendaraanMVC.Models.Pesanan>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>List Pesanan</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TanggalPesan)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TanggalTiba)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TanggalPengiriman)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NamaPelanggan)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AlamatPelanggan)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.KotaPelanggan)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Kasir)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TanggalPesan)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TanggalTiba)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TanggalPengiriman)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NamaPelanggan)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AlamatPelanggan)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.KotaPelanggan)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Kasir.NamaBelakang)
+            </td>
+            <td>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

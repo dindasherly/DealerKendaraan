@@ -1,0 +1,82 @@
+﻿@model DealerKendaraanMVC.Models.Produk
+@{
+    Layout = "./_Layout.cshtml";
+    ViewData["Title"] = "Admin Control Panel";
+    ViewData["Name"] = "Soemthing";
+}
+
+<div class="text-center">
+    <h1 class="py-3">
+        <span style="border-radius: 20px; background-color: darkcyan; padding:10px 30px;">
+            Kendaraan
+        </span>
+    </h1>
+
+    <h2 class="text-light">Masukan Data Kendaraan</h2>
+</div>
+
+<form asp-action="KendaraanTambah" method="post" enctype="multipart/form-data">
+    <div style="display:grid; min-height: 50vh; place-content:center;">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 10px 0px; width:100vw; max-width: 586px;">
+            <div><label asp-for="Nama" class="control-label"></label></div>
+            <div class="form-group">
+                <input asp-for="Nama" class="form-control" />
+                <span asp-validation-for="Nama" class="text-danger"></span>
+            </div>
+            <div><label asp-for="Merk" class="control-label"></label></div>
+            <div class="form-group">
+                <select asp-for="MerkId" class="form-control" asp-items="ViewBag.MerkId" required>
+                    <option value="">Pilih - @Html.DisplayNameFor(model => model.Merk.Nama)</option>
+                </select>
+            </div>
+
+            <div>
+                <label asp-for="Warna" class="control-label"></label>
+            </div>
+            <div class="form-group">
+                <input asp-for="Warna" class="form-control" />
+                <span asp-validation-for="Warna" class="text-danger"></span>
+            </div>
+
+            <div>
+                <label asp-for="StokBarang" class="control-label"></label>
+            </div>
+            <div class="form-group">
+                <input asp-for="StokBarang" class="form-control" />
+                <span asp-validation-for="StokBarang" class="text-danger"></span>
+            </div>
+
+            <div>
+                <label asp-for="HargaSatuan" class="control-label"></label>
+            </div>
+            <div class="form-group">
+                <input asp-for="HargaSatuan" class="form-control" />
+                <span asp-validation-for="HargaSatuan" class="text-danger"></span>
+            </div>
+
+            <div>
+                <label asp-for="Gambar" class="control-label"></label>
+            </div>
+            <div class="form-group">
+                <input name="image" class="form-control" type="file" accept="image/jpeg" value="JPEG only!"/>
+                <span asp-validation-for="Gambar" class="text-danger"></span>
+            </div>
+
+            <div>
+                <label asp-for="Pemasok" class="control-label"></label>
+            </div>
+            <div class="form-group">
+                <select asp-for="PemasokId" class="form-control" asp-items="ViewBag.PemasokId" required>
+                    <option value="">Pilih - @Html.DisplayNameFor(model => model.Pemasok.NamaPerusahaaan)</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="py-3" style="display: flex; gap:50px; justify-content: flex-end;">
+            <button type="submit" class="btn btn-success btn-outline-light px-4" style="border-radius: 20px;">Simpan</button>
+            <button type="reset" class="btn btn-success btn-outline-light px-4" style="border-radius: 20px;">Reset</button>
+            <a asp-controller="Admin" asp-action="Kendaraan" class="btn btn-success btn-outline-light px-4" style="border-radius: 20px;">Lihat Data</a>
+        </div>
+    </div>
+</form>

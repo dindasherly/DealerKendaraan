@@ -1,0 +1,1323 @@
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\appsettings.json
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\DealerKendaraanMVC.exe
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\DealerKendaraanMVC.deps.json
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\DealerKendaraanMVC.runtimeconfig.json
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\DealerKendaraanMVC.runtimeconfig.dev.json
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\DealerKendaraanMVC.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\DealerKendaraanMVC.pdb
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\DealerKendaraanMVC.Views.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\DealerKendaraanMVC.Views.pdb
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.csproj.AssemblyReference.cache
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.AssemblyInfoInputs.cache
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.AssemblyInfo.cs
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.csproj.CoreCompileInputs.cache
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.MvcApplicationPartsAssemblyInfo.cs
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.RazorAssemblyInfo.cache
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.RazorAssemblyInfo.cs
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\staticwebassets\DealerKendaraanMVC.StaticWebAssets.Manifest.cache
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\staticwebassets\DealerKendaraanMVC.StaticWebAssets.xml
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\DealerKendaraanMVC.styles.css
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.TagHelpers.input.cache
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.TagHelpers.output.cache
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.RazorCoreGenerate.cache
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.RazorTargetAssemblyInfo.cache
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.RazorTargetAssemblyInfo.cs
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.Views.pdb
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.csproj.CopyComplete
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.pdb
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.genruntimeconfig.cache
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\_Layout.cshtml.g.cs
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Kendaraan.cshtml.g.cs
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\KendaraanTambah.cshtml.g.cs
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\KendaraanDelete.cshtml.g.cs
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\KendaraanDetails.cshtml.g.cs
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\KendaraanEdit.cshtml.g.cs
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Merk.cshtml.g.cs
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\MerkDelete.cshtml.g.cs
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\MerkDetails.cshtml.g.cs
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\MerkEdit.cshtml.g.cs
+D:\_PROJECT\freelance\CSharp\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\MerkTambah.cshtml.g.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\DealerKendaraanMVC.StaticWebAssets.xml
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\DealerKendaraanMVC.exe
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\DealerKendaraanMVC.deps.json
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\DealerKendaraanMVC.runtimeconfig.json
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\DealerKendaraanMVC.runtimeconfig.dev.json
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\DealerKendaraanMVC.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\DealerKendaraanMVC.pdb
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\DealerKendaraanMVC.Views.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\DealerKendaraanMVC.Views.pdb
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.csproj.AssemblyReference.cache
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.AssemblyInfoInputs.cache
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.AssemblyInfo.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.csproj.CoreCompileInputs.cache
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.MvcApplicationPartsAssemblyInfo.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.RazorAssemblyInfo.cache
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.RazorAssemblyInfo.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\staticwebassets\DealerKendaraanMVC.StaticWebAssets.Manifest.cache
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.TagHelpers.input.cache
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.TagHelpers.output.cache
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.RazorCoreGenerate.cache
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Kendaraan.cshtml.g.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\KendaraanDelete.cshtml.g.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\KendaraanDetails.cshtml.g.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\KendaraanEdit.cshtml.g.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\KendaraanTambah.cshtml.g.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Merk.cshtml.g.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\MerkDelete.cshtml.g.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\MerkDetails.cshtml.g.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\MerkEdit.cshtml.g.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\MerkTambah.cshtml.g.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\_Layout.cshtml.g.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.RazorTargetAssemblyInfo.cache
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.RazorTargetAssemblyInfo.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.Views.pdb
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.csproj.CopyComplete
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.dll
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.pdb
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.genruntimeconfig.cache
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Pelanggan\Create.cshtml.g.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Pelanggan\Index.cshtml.g.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Kasir\Create.cshtml.g.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Kasir\Delete.cshtml.g.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Kasir\Details.cshtml.g.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Kasir\Edit.cshtml.g.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Kasir\Index.cshtml.g.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Pelanggan\Cari.cshtml.g.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Pelanggan\Details.cshtml.g.cs
+C:\_PROJECT\c#\file\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Pelanggan\Search.cshtml.g.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\DealerKendaraanMVC.StaticWebAssets.xml
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\DealerKendaraanMVC.exe
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\DealerKendaraanMVC.deps.json
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\DealerKendaraanMVC.runtimeconfig.json
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\DealerKendaraanMVC.runtimeconfig.dev.json
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\DealerKendaraanMVC.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\DealerKendaraanMVC.pdb
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\DealerKendaraanMVC.Views.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\DealerKendaraanMVC.Views.pdb
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.AssemblyInfo.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.RazorAssemblyInfo.cache
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.RazorAssemblyInfo.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\staticwebassets\DealerKendaraanMVC.StaticWebAssets.Manifest.cache
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.TagHelpers.input.cache
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.TagHelpers.output.cache
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.RazorCoreGenerate.cache
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Kendaraan.cshtml.g.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\KendaraanDelete.cshtml.g.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\KendaraanDetails.cshtml.g.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\KendaraanEdit.cshtml.g.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\KendaraanTambah.cshtml.g.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Merk.cshtml.g.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\MerkDelete.cshtml.g.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\MerkDetails.cshtml.g.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\MerkEdit.cshtml.g.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\MerkTambah.cshtml.g.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Admin\_Layout.cshtml.g.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Kasir\Create.cshtml.g.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Kasir\Delete.cshtml.g.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Kasir\Details.cshtml.g.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Kasir\Edit.cshtml.g.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Kasir\Index.cshtml.g.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Pelanggan\Cari.cshtml.g.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Pelanggan\Create.cshtml.g.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Pelanggan\Details.cshtml.g.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Pelanggan\Index.cshtml.g.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Pelanggan\Search.cshtml.g.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.RazorTargetAssemblyInfo.cache
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.RazorTargetAssemblyInfo.cs
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.Views.pdb
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.csproj.CopyComplete
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.dll
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.pdb
+C:\Users\User\Downloads\New folder (8)\DealerKendaraanMVC\DealerKendaraanMVC\obj\Debug\netcoreapp3.1\DealerKendaraanMVC.genruntimeconfig.cache

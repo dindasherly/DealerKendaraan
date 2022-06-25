@@ -1,0 +1,26 @@
+﻿@{
+    Layout = "./_Layout.cshtml";
+    ViewData["Title"] = "Admin Control Panel";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Main Menu - Administrator</h1>
+    <div class="admin-menu-button p-5">
+        <a class="btn btn-info btn-outline-primary btn-lg text-light" asp-area="" asp-controller="Admin" asp-action="Kendaraan">
+            Kendaraan
+        </a>
+        <a class="btn btn-info btn-outline-primary btn-lg text-light" asp-area="" asp-controller="Pelanggan" asp-action="Create">
+            Penjualan
+        </a>
+        <a class="btn btn-info btn-outline-primary btn-lg text-light" asp-area="" asp-controller="Pelanggan" asp-action="Cari">
+            Pembelian
+        </a>
+        <a class="btn btn-info btn-outline-primary btn-lg text-light" asp-area="" asp-controller="Kasir" asp-action="Index">
+            Transaksi
+        </a>
+        <a class="btn btn-info btn-outline-primary btn-lg text-light" asp-area="" asp-controller="Admin" asp-action="Merk">
+            Merk
+        </a>
+    </div>
+
+</div>
